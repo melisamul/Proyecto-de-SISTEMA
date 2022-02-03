@@ -1,0 +1,94 @@
+#scroll {
+	overflow-x:hidden; 
+	overflow-y: scroll;
+	height: 120px;
+	width: 700px;
+}
+#div table {
+	width: 600px;
+	background-color: lightgray;
+}
+#cabeza {
+	height: 60px;
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+#cabeza-boton {
+	height: 20px;
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+#texto-cabeza{
+    margin:0 auto; 
+    padding-top: 5px; 
+    height: 55px;
+}
+#cuerpo {
+	top: 20px;
+	width: 700px;
+        align-content: center;
+	margin: 0 auto;
+	font-weight: bold;
+}
+#sistema {
+	background-color: #f0f0f0;
+	height: 20px;
+	margin: 0 auto;
+	width: 800px;
+}
+#titulo {
+	color: #9ec3e5;
+	font-size: 17px;
+}
+.botones {
+	border-radius: 10px;
+	color: #ffffff;
+	background-color: #618ce6;
+	height: 30px;
+	width: auto;
+}
+.botonesPrincipal {
+    border-radius: 10px;
+    color: #ffffff;	
+    background: -webkit-linear-gradient(#99ccff, #618ce6);
+    background: -moz-linear-gradient(#99ccff, #618ce6);
+    background: -o-linear-gradient(#99ccff, #618ce6);
+    height: 60px;
+    width: 120px;
+}
+.nombre
+{
+    color: #ffffff;
+    font-size: 24px;
+}
+.obligados {
+	color: #AEAEAE;
+}
+.tablas {
+	width:"700";
+	border:"1";
+	cellspacing:"0";
+	cellpadding:"0";
+	background-color:#cccccc;
+	}
+.tablas td
+{height:30px;}
+
+#cabeza div {
+    background-image: url(./cabeza.png);
+}
+textarea {
+  resize: none;
+}
+.box-principal {
+	top: 10px;
+	align-content: center;
+	margin: 0 auto;
+        overflow-x: hidden; 
+	overflow-y: scroll;
+	height: 410px;
+	width: 100%;
+	font-weight: bold;
+}

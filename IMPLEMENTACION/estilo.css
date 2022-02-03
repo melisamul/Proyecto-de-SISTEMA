@@ -1,0 +1,55 @@
+#scroll {
+	overflow-x:hidden; 
+	overflow-y: scroll;
+	height: 150px;
+	width: 600px;
+}
+#div table {
+	width: 600px;
+	background-color: lightgray;
+}
+#cabeza {
+	background-image: url(./cabeza.png);
+	height: 81px;
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+#cuerpo {
+	top: 20px;
+	width: 500px;
+	margin: 0 auto;
+}
+#sistema {
+	background-color: #f0f0f0;
+	height: 30px;
+	margin: 0 auto;
+	width: 500px;
+}
+#titulo {
+	color: #9ec3e5;
+	font-size: 20px;
+}
+.botones {
+	border-radius: 10px;
+	color: #ffffff;
+	background-color: #618ce6;
+	height: 30px;
+	width: 60px;
+}
+.nombre
+{
+	color: #ffffff;
+	font-size: 24px;
+}.obligados {
+	color: #AEAEAE;
+}
+.tablas {
+	width="500";
+	border="1";
+	cellspacing="0";
+	cellpadding="0";
+	background-color:#cccccc;
+	}
+.tablas td
+{height:50px;}
